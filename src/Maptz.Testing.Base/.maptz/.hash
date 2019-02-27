@@ -1,0 +1,12 @@
+
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Concepts\IInjectedServicesFixture.cs-5b445b1c456a467b550ec9210507efbb
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Concepts\ITempDirectoryWorkspace.cs-b30759ff6a1e32f37a447445c2b7eab5
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Concepts\ITemporaryFilesService.cs-b889d91baff8c56ff4ec8fcb7f987f91
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Concepts\ITestWorkspace.cs-b16a6cf0c231f3b0195b5a888370782f
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Implementations\Fixtures\InjectedServicesFixture.cs-bf52711103fded6dc90c833c280d1844
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Implementations\Services\TemporaryFilesService.cs-7b1406d291cbfb7fa5ffb10f259c5fd8
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Implementations\Workspaces\DefaultWorkspace.cs-fec7838fd0e04fb1b650c7cc05d2e6d2
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Implementations\Workspaces\TempDirectoryWorkspace.cs-90e141a8b1de0adc5f03567ad027f8a7
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Implementations\Workspaces\TempDirectoryWorkspaceExtensions.cs-fd48a95e5c693810700f7a4e13469d65
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.testing.base\src\Maptz.Testing.Base\Maptz.Testing.Base.csproj-1639a958a6b2e556d114523350b0929b
+
